@@ -1,10 +1,11 @@
 {
-  "name": "pixel-sprite-generator",
+  "name": "pixel-sprite-generator-cfreeley",
   "main": "pixel-sprite-generator.js",
   "version": "0.0.2",
-  "homepage": "https://github.com/zfedoran/pixel-sprite-generator",
+  "homepage": "https://github.com/cfreeley/pixel-sprite-generator",
   "authors": [
-    "Zelimir Fedoran <zelimir.fedoran@gmail.com>"
+    "Zelimir Fedoran <zelimir.fedoran@gmail.com>",
+    "Chris Freeley <christopher.freeley+github@gmail.com"
   ],
   "description": "A procedural pixel sprite generator",
   "keywords": [
