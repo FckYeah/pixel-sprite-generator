@@ -13,7 +13,7 @@
  * http://web.archive.org/web/20080228054410/http://www.davebollinger.com/works/pixelspaceships/
  *
  */
-(function(root) {
+// (function(root) {
 
     /**
      *   The Mask class defines a 2D template form which sprites can be generated.
@@ -505,5 +505,7 @@
     };
 
     // Export psg module
-    root.psg = psg;
-})(window);
+    // root.psg = psg;
+// })(window);
+
+module.exports = psg;
