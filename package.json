@@ -1,6 +1,6 @@
 {
-  "name": "pixel-sprite-generator-cfreeley",
-  "version": "0.0.2",
+  "name": "pixel-sprite-generator-fckyeah",
+  "version": "0.0.3",
   "description": "A procedural pixel sprite generator",
   "main": "pixel-sprite-generator.js",
   "directories": {
